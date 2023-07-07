@@ -45,4 +45,5 @@ Uma cápsula do tempo é um objeto que guarda lembranças e informações releva
  - npm i zod
  - npx prisma studio 
 
+# Contato
  💛 arthursousarabelo2@gmail.com
